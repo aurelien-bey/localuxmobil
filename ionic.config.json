@@ -1,0 +1,7 @@
+{
+  "name": "localuxmobile",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
